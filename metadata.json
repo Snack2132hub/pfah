@@ -1,0 +1,6 @@
+{
+  "name": "P'Fah's Birthday Quest - 8-Bit Platformer",
+  "description": "A retro 2D side-scrolling platformer for P'Fah's birthday with badminton and anime book collectibles, chiptune sound, and a grand birthday celebration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
